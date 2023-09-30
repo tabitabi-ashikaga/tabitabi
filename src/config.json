@@ -1,9 +1,9 @@
 {
-  "title": "tabi-tabiマップ",
-  "description": "足利の観光マップです(制作中)",
+  "title": "足利観光マップ created by tabi-tabi",
+  "description": "足利の魅力を発信する観光マップです(制作中)\nこのマップを手引きに、歴史と文化の深い足利の街をお楽しみください。",
   "form_url": "",
   "logo_image_url": "https://geoloniamaps.github.io/pwamap/icon-pwamap.svg",
-  "background_image_url": "https://geoloniamaps.github.io/pwamap/geolonia_bgimage_1920_1080.png",
+  "background_image_url": "https://tabitabi-ashikaga.github.io/map/pc_background.jpg",
   "primary_color": "#d2691e",
   "orderby": "distance"
 }
