@@ -2,8 +2,8 @@
   "title": "足利観光マップ created by tabi-tabi",
   "description": "足利の魅力を発信する観光マップです(制作中)\nこのマップを手引きに、歴史と文化の深い足利の街をお楽しみください。",
   "form_url": "",
-  "logo_image_url": "https://tabitabi-ashikaga.github.io/map/tabitabi_logo_geolonia.png",
-  "background_image_url": "https://tabitabi-ashikaga.github.io/map/pc_background.jpg",
+  "logo_image_url": "https://tabitabi-ashikaga.github.io/map/icon-pwamap.svg",
+  "background_image_url": "https://tabitabi-ashikaga.github.io/map/geolonia_bgimage_1920_1080.png",
   "primary_color": "#4682b4",
   "orderby": "distance"
 }
