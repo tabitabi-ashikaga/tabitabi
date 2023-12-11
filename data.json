@@ -1,31 +1,7 @@
 {
-  "range": "'スポットデータ'!A1:K84",
-  "majorDimension": "ROWS",
-  "values": [
-    [
-      "タイムスタンプ",
-      "カテゴリ",
-      "画像",
-      "緯度",
-      "経度",
-      "スポット名",
-      "紹介文",
-      "Instagram",
-      "Twitter",
-      "公式サイト",
-      "Facebook"
-    ],
-    [
-      "2023/09/30",
-      "カフェ",
-      "https://tabitabi-ashikaga.github.io/map/tabitabi_facade.jpg",
-      "36.33355831",
-      "139.4518014",
-      "tabi-tabi",
-      "足利の食や文化を世界に発信し、上質な時を提供するコミュニケーションスペース 小さな旅の拠点として、たびたび 帰りたくなるやさしい古民家。",
-      "tabitabi_ashikaga",
-      "",
-      "https://www.instagram.com/tabitabi_ashikaga/"
-    ]
-  ]
+  "error": {
+    "code": 503,
+    "message": "The service is currently unavailable.",
+    "status": "UNAVAILABLE"
+  }
 }
